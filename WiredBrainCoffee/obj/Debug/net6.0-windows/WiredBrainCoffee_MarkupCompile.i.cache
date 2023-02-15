@@ -1,0 +1,20 @@
+﻿WiredBrainCoffee
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\net6.0-windows\
+WiredBrainCoffee
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\WiredBrainCoffee\WiredBrainCoffee\App.xaml
+72067005704
+
+201776992347
+196387297885
+Controls\HeaderControl.xaml;MainWindow.xaml;Resources\Brushes.xaml;Resources\Converters.xaml;Resources\Styles.xaml;View\CustomersView.xaml;View\ProductsView.xaml;
+
+True
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P1NW66To5X/vKXwSgOGEgDlarvoPub24yqUVW2zOA4Ym36ByKuVV1H54lnnzv1b4yZfdJZ2gx7KzQhDd6lk+7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dbz\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\WiredBrainCoffee\\WiredBrainCoffee\\WiredBrainCoffee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
